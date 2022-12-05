@@ -24,11 +24,11 @@
     "OPPickupLeadTime": "01:20",
     "OPDeliveryLeadTime": "02:02",
 	"PATimeZone": "London",
-	"PASelectDays": "12:03 AM",
+	"PASelectDays": "FALSE",
 	"PAEarliestTime": "12:05 AM",
 	"PALatestTime": "10:07 AM",
 	"DATimeZone": "London",
-	"DASelectDays": "10:00 AM",
+	"DASelectDays": "FALSE",
 	"DAEarliestTime": "11:01 AM",
 	"DALatestTime": "12:42 AM"
 },
