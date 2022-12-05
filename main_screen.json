@@ -7,7 +7,7 @@
     "OPPickupLeadTime": "01:20",
     "OPDeliveryLeadTime": "02:02",
 	"PATimeZone": "London",
-	"PASelectDays": "False",
+	"PASelectDays": "False1",
 	"PAEarliestTime": "12:04 AM",
 	"PALatestTime": "12:00 AM",
 	"DATimeZone": "London",
