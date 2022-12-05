@@ -11,7 +11,7 @@
 	"PAEarliestTime": "12:04 AM",
 	"PALatestTime": "12:00 AM",
 	"DATimeZone": "London",
-	"DASelectDays": "FALSE",
+	"DASelectDays": "False",
 	"DAEarliestTime": "12:01 AM",
 	"DALatestTime": "12:02 AM"
 },
@@ -28,7 +28,7 @@
 	"PAEarliestTime": "12:05 AM",
 	"PALatestTime": "10:07 AM",
 	"DATimeZone": "London",
-	"DASelectDays": "FALSE",
+	"DASelectDays": "False",
 	"DAEarliestTime": "11:01 AM",
 	"DALatestTime": "12:42 AM"
 },
