@@ -4,14 +4,14 @@
     "startDate": "01/03/2020",
     "endDate":  "01/05/2020",
     "TimeZone1": "London",
-    "cfop_starttime": "12:00",
-	"cfop_endtime": "12:00",
+    "cfop_starttime": "12:00 AM",
+	"cfop_endtime": "12:00 AM",
 	"TimeZone2": "London",
-	"cfp_starttime": "12:00",
-	"cfp_endtime": "12:00",
-	"TimeZone3": "12:00",
-	"cfd_starttime": "12:00",
-	"cfd_endtime": "12:00"
+	"cfp_starttime": "12:00 AM",
+	"cfp_endtime": "12:00 AM",
+	"TimeZone3": "San Francisco",
+	"cfd_starttime": "12:00 AM",
+	"cfd_endtime": "12:00 AM"
 },
 {
     "addressLink": "Ireland",
@@ -19,13 +19,13 @@
     "startDate": "02/03/2020",
     "endDate":  "03/05/2020",
     "TimeZone1": "Tokyo",
-    "cfop_starttime": "12:02",
-	"cfop_endtime": "12:03",
+    "cfop_starttime": "12:02 AM",
+	"cfop_endtime": "12:03 AM",
 	"TimeZone2": "London",
-	"cfp_starttime": "12:04",
-	"cfp_endtime": "12:04",
+	"cfp_starttime": "12:04 AM",
+	"cfp_endtime": "12:04 AM",
 	"TimeZone3": "San Francisco",
-	"cfd_starttime": "12:04",
-	"cfd_endtime": "12:04"
+	"cfd_starttime": "12:04 AM",
+	"cfd_endtime": "12:04 AM"
 }
 ]
